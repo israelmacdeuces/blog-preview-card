@@ -1,0 +1,1 @@
+This is a simple html and css blog post challenge from the frontend-mentor.
